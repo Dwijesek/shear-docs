@@ -21,9 +21,15 @@
 - `mkdocs build` - Build the documentation site.
 - `mkdocs -h` - Print help message and exit.
 
-## Project layout
+### Project layout
 
     mkdocs.yml    # The configuration file.
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+## Commands
+
+This is a code `ffffff`
+
+` some cold block. lots of code..`
